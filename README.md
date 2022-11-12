@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Github page</h1>
 
-- 👋 Hi, I’m @lordvader501
+- 👋 Hi, I’m Shauryam Dubey.
 - 👀 I’m interested in AI/ML, Full Stack development ...
 - 🌱 I’m currently learning Machine learning, DSA, ...
 - 📫 How to reach me dshauryam@gmail.com
