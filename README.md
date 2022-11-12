@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=lordvader501&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 - - - 
 ## 🌐 *Socials:*
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shauryamdubey/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shauryamdubey/) &nbsp;
 [![Twitter Follow](https://img.shields.io/twitter/follow/ShauryamDubey?color=blue&logo=twitter&style=plastic)](https://twitter.com/ShauryamDubey)
 - - -
 ## 📊 *GitHub Stats:*
