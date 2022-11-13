@@ -12,9 +12,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ShauryamDubey?color=blue&logo=twitter&style=plastic)](https://twitter.com/ShauryamDubey)
 - - -
 ## 📊 *GitHub Stats:*
-![](https://github-readme-stats.vercel.app/api?username=lordvader501&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&card_width=500) &nbsp;
+![](https://github-readme-stats.vercel.app/api?username=lordvader501&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&card_width=500)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lordvader501&theme=tokyonight&hide_border=false&card_width=515) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordvader501&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=960)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordvader501&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=950)
 - - -
 ## 🏆 *GitHub Trophies:*
 ![](https://github-profile-trophy.vercel.app/?username=lordvader501&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
