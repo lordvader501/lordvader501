@@ -12,7 +12,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ShauryamDubey?color=blue&logo=twitter&style=plastic)](https://twitter.com/ShauryamDubey)
 - - -
 ## 📊 *GitHub Stats:*
-<div class='container'><img style="height: auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api?username=lordvader501&theme=jolly&hide_border=false&include_all_commits=false&count_private=false" />&nbsp;&nbsp;<img style="height: auto; width: auto;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=lordvader501&theme=tokyonight&hide_border=false" /></div>
+<div class='container'><img style="height: auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api?username=lordvader501&theme=jolly&hide_border=false&include_all_commits=false&count_private=false" />&nbsp;<img style="height: auto; width: auto;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=lordvader501&theme=tokyonight&hide_border=false" /></div>
 
 <!---![](https://github-readme-stats.vercel.app/api?username=lordvader501&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&card_width=987)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lordvader501&theme=tokyonight&hide_border=false&card_width=950) --->
