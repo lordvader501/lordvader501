@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordvader501&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=950)
 - - -
 ## 🏆 *GitHub Trophies:*
-![](https://github-profile-trophy.vercel.app/?username=lordvader501&theme=gruvbox&no-frame=false&no-bg=true&margin-w=6&margin-h=6&column=10)
+![](https://github-profile-trophy.vercel.app/?username=lordvader501&theme=gruvbox&no-frame=false&no-bg=true&margin-w=6&margin-h=6&column=8)
 <!---
 lordvader501/lordvader501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
