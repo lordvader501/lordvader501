@@ -68,7 +68,7 @@
 
 <!---![](https://github-readme-stats.vercel.app/api?username=lordvader501&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&card_width=987)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lordvader501&theme=tokyonight&hide_border=false&card_width=950) --->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordvader501&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15&card_width=950)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordvader501&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15&card_width=950&hide=jupyter%20notebook)
 - - -
 ## 🏆 *GitHub Trophies:*
 ![](https://github-profile-trophy.vercel.app/?username=lordvader501&theme=gruvbox&no-frame=false&no-bg=true&margin-w=6&margin-h=6&column=8)
